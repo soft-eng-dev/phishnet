@@ -1,6 +1,6 @@
 PhishNet
 
-> Detecting phishing URLs before the damage is done — without relying on blocklists.
+> Detecting phishing URLs before the damage is done, without relying on blocklists.
 
 ## The problem with blocklists
 
